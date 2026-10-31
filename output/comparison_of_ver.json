@@ -1,0 +1,73 @@
+{
+  "text": "Your hands lie open in a long-fresh grass, the finger points look through like rosy blooms, your eyes smile piece, the pasture gleams and glooms, neat billowing skies that scatter and amass. All round our nest far as the eye can pass, our golden king cup feels with silver edge, where the cow parsley skirts the Hawthorne hedge, to his visible silence still is the hourglass. Your hands lie open in a long-fresh grass, the finger points look through like rosy blooms, your eyes smile piece, the pasture gleams and glooms, neat billowing skies that scatter and amass. All round our nest far as the eye can pass, our golden king cup feels with silver edge, where the cow parsley skirts the Hawthorne hedge, to his visible silence still is the hourglass.",
+  "language": "en",
+  "language_probability": 0.9984204769134521,
+  "duration_seconds": 57.68,
+  "chunk_count": 1,
+  "model": "tiny",
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 5.68,
+      "text": "Your hands lie open in a long-fresh grass, the finger points look through like rosy blooms,",
+      "words": null
+    },
+    {
+      "id": 1,
+      "start": 5.68,
+      "end": 9.36,
+      "text": "your eyes smile piece, the pasture gleams and glooms,",
+      "words": null
+    },
+    {
+      "id": 2,
+      "start": 9.36,
+      "end": 16.16,
+      "text": "neat billowing skies that scatter and amass. All round our nest far as the eye can pass,",
+      "words": null
+    },
+    {
+      "id": 3,
+      "start": 16.16,
+      "end": 21.2,
+      "text": "our golden king cup feels with silver edge, where the cow parsley skirts the Hawthorne",
+      "words": null
+    },
+    {
+      "id": 4,
+      "start": 21.2,
+      "end": 28.45,
+      "text": "hedge, to his visible silence still is the hourglass. Your hands lie open in a long-fresh grass,",
+      "words": null
+    },
+    {
+      "id": 5,
+      "start": 28.45,
+      "end": 35.81,
+      "text": "the finger points look through like rosy blooms, your eyes smile piece, the pasture gleams and glooms,",
+      "words": null
+    },
+    {
+      "id": 6,
+      "start": 35.81,
+      "end": 42.61,
+      "text": "neat billowing skies that scatter and amass. All round our nest far as the eye can pass,",
+      "words": null
+    },
+    {
+      "id": 7,
+      "start": 42.61,
+      "end": 49.01,
+      "text": "our golden king cup feels with silver edge, where the cow parsley skirts the Hawthorne hedge,",
+      "words": null
+    },
+    {
+      "id": 8,
+      "start": 49.01,
+      "end": 56.37,
+      "text": "to his visible silence still is the hourglass.",
+      "words": null
+    }
+  ]
+}

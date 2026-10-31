@@ -1,0 +1,17 @@
+{
+  "text": "This is the smell of old deer ringers",
+  "language": "en",
+  "language_probability": 0.9167202115058899,
+  "duration_seconds": 3.35,
+  "chunk_count": 1,
+  "model": "tiny",
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.43,
+      "end": 3.43,
+      "text": "This is the smell of old deer ringers",
+      "words": null
+    }
+  ]
+}

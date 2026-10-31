@@ -1,0 +1,17 @@
+{
+  "text": "Hello, this is a sample recording for the Volga Transcription Assignment.",
+  "language": "en",
+  "language_probability": 0.9907982349395752,
+  "duration_seconds": 5.35,
+  "chunk_count": 1,
+  "model": "tiny",
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 5.2,
+      "text": "Hello, this is a sample recording for the Volga Transcription Assignment.",
+      "words": null
+    }
+  ]
+}

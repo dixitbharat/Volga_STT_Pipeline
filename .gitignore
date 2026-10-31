@@ -18,6 +18,5 @@ tmp/
 htmlcov/
 .env
 samples/generated/
-output/
 *.mp4
 *.mov

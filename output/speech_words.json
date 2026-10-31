@@ -1,0 +1,84 @@
+{
+  "text": "Hello, this is a sample recording for the Volga Transcription Assignment.",
+  "language": "en",
+  "language_probability": 0.9907982349395752,
+  "duration_seconds": 5.35,
+  "chunk_count": 1,
+  "model": "tiny",
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 4.84,
+      "text": "Hello, this is a sample recording for the Volga Transcription Assignment.",
+      "words": [
+        {
+          "start": 0.0,
+          "end": 0.58,
+          "word": " Hello,",
+          "probability": 0.8664500713348389
+        },
+        {
+          "start": 0.98,
+          "end": 1.2,
+          "word": " this",
+          "probability": 0.891194224357605
+        },
+        {
+          "start": 1.2,
+          "end": 1.46,
+          "word": " is",
+          "probability": 0.9967813491821289
+        },
+        {
+          "start": 1.46,
+          "end": 1.7,
+          "word": " a",
+          "probability": 0.9116292595863342
+        },
+        {
+          "start": 1.7,
+          "end": 1.98,
+          "word": " sample",
+          "probability": 0.9943661689758301
+        },
+        {
+          "start": 1.98,
+          "end": 2.46,
+          "word": " recording",
+          "probability": 0.9754344820976257
+        },
+        {
+          "start": 2.46,
+          "end": 2.86,
+          "word": " for",
+          "probability": 0.996220052242279
+        },
+        {
+          "start": 2.86,
+          "end": 3.04,
+          "word": " the",
+          "probability": 0.9800235033035278
+        },
+        {
+          "start": 3.04,
+          "end": 3.4,
+          "word": " Volga",
+          "probability": 0.44045064598321915
+        },
+        {
+          "start": 3.4,
+          "end": 4.16,
+          "word": " Transcription",
+          "probability": 0.7371931374073029
+        },
+        {
+          "start": 4.16,
+          "end": 4.84,
+          "word": " Assignment.",
+          "probability": 0.8340827822685242
+        }
+      ]
+    }
+  ]
+}
